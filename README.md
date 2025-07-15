@@ -1,2 +1,2 @@
 # MFBG-Magnolias
-ArcGIS Magnolia Land Map with Hover Pop-ups
+ 378 Magnolias Interactive Map
